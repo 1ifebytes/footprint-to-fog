@@ -26,7 +26,7 @@ This project provides a simple Python script to convert CSV (Comma-Separated Val
 3. Run the script using Python:
 
 ```
-python3 csv_to_gpx.py
+python3 csv-to-gpx-converter.py
 ```
 
 4. The script will create an `output.gpx` file in the same directory.
