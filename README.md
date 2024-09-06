@@ -1,0 +1,2 @@
+# footprint_to_fog
+一生足迹App导出的csv文件一键转换成世界迷雾App可以识别的gpx
