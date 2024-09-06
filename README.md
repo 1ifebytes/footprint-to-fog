@@ -16,7 +16,7 @@ This project provides a simple Python script to convert CSV (Comma-Separated Val
 
 ## Installation
 
-1. Clone this repository or download the `csv_to_gpx.py` file.
+1. Clone this repository or download the `csv-to-gpx-converter.py` file.
 2. Ensure you have Python 3.x installed on your system.
 
 ## Usage
@@ -51,7 +51,7 @@ dataTime,locType,longitude,latitude,heading,accuracy,speed,distance,isBackForegr
 
 ## Customization
 
-If your CSV file has different column names or additional data you want to include in the GPX file, you can modify the `csv_to_gpx` function in the script to accommodate your specific needs.
+If your CSV file has different column names or additional data you want to include in the GPX file, you can modify the `csv-to-gpx-converter` function in the script to accommodate your specific needs.
 
 ## Contributing
 
