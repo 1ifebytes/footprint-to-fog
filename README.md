@@ -1,4 +1,4 @@
-# CSV(footprint) to GPX(fog) Converter | CSV(足迹)到GPX(雾)转换器
+# CSV to GPX Converter | CSV到GPX转换器
 
 [English](#english) | [中文](#chinese)
 
